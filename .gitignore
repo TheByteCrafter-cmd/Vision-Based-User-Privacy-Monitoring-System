@@ -1,0 +1,26 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+shoulder_surfing/venv/
+
+# PyInstaller
+shoulder_surfing/build/
+shoulder_surfing/dist/
+
+# Logs
+shoulder_surfing/logs/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# VS Code
+.vscode/
+
+# Generated captured images
+shoulder_surfing/images/*.jpg
+shoulder_surfing/images/*.jpeg
+shoulder_surfing/images/*.png
